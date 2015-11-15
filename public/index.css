@@ -1,0 +1,71 @@
+body {
+  background-image: url("images/background.jpg");
+  background-size: cover;
+}
+
+
+.htmlcssjs {
+  margin-left: -175px;
+}
+
+.jquery {
+  margin-right: -175px;
+}
+
+.rails {
+  margin-top: 10px;
+  margin-left: -120px;
+}
+
+.contact {
+  color: #297519;
+}
+
+.contact-info {
+
+  display: none;
+  background-color:#fff;
+  border-radius:10px 10px 10px 10px;
+  box-shadow:0 0 25px 5px #999;
+  color:#111;
+  min-width:450px;
+  padding:25px;
+}
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+  font-size: 50px;
+}
+
+.ruby-projects {
+  display: none;
+  color: white;
+}
+
+.rails-projects {
+  display: none;
+  color: white;
+}
+.projects {
+  color: #E4E536;
+}
+
+.projects-ii {
+  color: #297519;
+}
+
+.contact-info-top {
+  color: #E4E536;
+}
+
+.pop-ups {
+  padding-top: 30px;
+  font-family: 'Ranga', cursive;
+  font-size: 25px;
+}
+
+.pic-name {
+  margin-top: 225px;
+  padding-right: 150px;
+}
