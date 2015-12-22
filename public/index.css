@@ -4,18 +4,32 @@ body {
   background-repeat: no-repeat;
 }
 
+.btn {
+  color: #057B71!important;
+  background-color:#FEC954;
+  border: solid #057B71;
+  border-radius: 12px;
+  font-size: 24px;
+  transition-duration: 0.4s;
+  padding-top: 10px;
+}
 
 .htmlcssjs {
-  margin-left: -175px;
+  margin-left: ;
+}
+
+.name-title {
+    margin-top: 95px;
+    margin-left: 25px;
 }
 
 .jquery {
-  margin-right: -175px;
+  margin-right: ;
 }
 
 .rails {
-  margin-top: 10px;
-  margin-left: -120px;
+  margin-top: ;
+  margin-left: ;
 }
 
 .contact {
@@ -65,9 +79,4 @@ body {
 .pop-ups {
   padding-top: 30px;
   font-family: 'Ranga', cursive;
-}
-
-.pic-name {
-  margin-top: 215px;
-  padding-right: 150px;
 }
