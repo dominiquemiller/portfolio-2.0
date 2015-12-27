@@ -16,4 +16,7 @@ $(document).on('ready', function(){
   $('.contact-info-top').click(function(){
     $('.contact-info').bPopup();
   });
+  $('.aboutme').click(function(){
+    $('.aboutme-box').bPopup();
+  });
 });
